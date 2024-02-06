@@ -29,11 +29,11 @@ public class CommandLine {
      *
      */
     public static void addData(){
-        /*
+
 
         StudentService studentService = new StudentService();
         CourseService courseService = new CourseService();
-        studentService.createStudent(new Student("reema@gmail.com", "reema brown", PASSWORD));
+        studentService.createStudent(new Student("abebahiru@gmail.com", "Abe Bahiru", PASSWORD));
         studentService.createStudent(new Student("annette@gmail.com", "annette allen", PASSWORD));
         studentService.createStudent(new Student("anthony@gmail.com", "anthony gallegos", PASSWORD));
         studentService.createStudent(new Student("ariadna@gmail.com", "ariadna ramirez", PASSWORD));
@@ -49,6 +49,6 @@ public class CommandLine {
         courseService.createCourse(new Course("Web Services", "Raheem Abolfathzadeh"));
         courseService.createCourse(new Course("Microservices", "Eric Heilig"));
 
-        */
+
     }
 }
